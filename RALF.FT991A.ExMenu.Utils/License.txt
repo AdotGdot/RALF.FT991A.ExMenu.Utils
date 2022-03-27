@@ -1,0 +1,44 @@
+Copyright 2022 by A.G. "Fritz" von Luternow
+
+END USER LICENSE AGREEMENT
+
+     The following agreement regarding the FT991A.ExMenuUtil.exe
+     application - referred to as "software" - is made between 
+     n4jvp.com - referred to as "licensor" - and anyone who is 
+     installing, accessing or in any other way using the software 
+     - referred to as "user".
+
+  1. The author and holder of the copyright of the software is
+     A.G. 'Fritz' von Luternow aka N4JVP. The licensor and as such 
+     issuer of the license is n4jvp.com
+
+  2. The software is distributed as free open-source software. Redistribution 
+     and use in source and binary forms, with or without modification, are 
+     permitted provided that the following conditions are met :
+
+     a. The software may be distributed as long as the distribution 
+        includes this license, the above copyright notice, and the 
+        original source code.
+
+     b. The software may distributed inside of any other software 
+     	package as long as the distribution includes this license,
+        the above copyright notice, and the original source code.
+     	
+     c. The software may be modified by the user to suit their needs. 
+     	Modified versions of the software may be distributed as long 
+        as the distribution includes this license, the above copyright 
+        notice, and both the original and modified source code.
+     	
+     d. Commercial use of the original or modified source code and/or binaries
+     	is prohibited.
+
+  3. The software is distributed "as is". No warranty of any kind is expressed
+     or implied. You use at your own risk. Neither the author, the licensor
+     nor the agents of the licensor will be liable for data loss, damages,
+     loss of profits or any other kind of loss while using or misusing
+     this software.
+
+  4. Using the software signifies acceptance of these terms
+     and conditions of the license. If you do not agree with the terms of this
+     license, you must remove all software files from your storage devices
+     and cease to use the software.
