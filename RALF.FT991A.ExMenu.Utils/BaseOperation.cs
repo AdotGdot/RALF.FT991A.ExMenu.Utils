@@ -56,6 +56,7 @@ namespace RALF.FT991A.ExtendedMenu.Utils
         protected void openComport()
         {
             port = new SerialPort(comPort, baudRate, parity, (int)dataBits, (StopBits)stopBits);
+            port.RtsEnable = true;
             port.ReadTimeout = 100;
             port.Open();
         }
